@@ -25,7 +25,7 @@ SECRET_KEY = 'ixt_i^c9stdre!f*4^msz%9n4oc)ay40*mp(oh-)k!c=%j$euj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<meghana360>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'meghana360.pythonanywhere.com']
 
 
 # Application definition
